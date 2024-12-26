@@ -1,0 +1,7 @@
+(COLORS)
+1. 1A1A40 
+2. 662D91 
+3. DE00D4
+(FONT NAEM)
+Poppins (Regular)
+Poppins (SemiBold)
